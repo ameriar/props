@@ -78,7 +78,7 @@
     "test-live": "karma start --reporters notify,dots --no-singleRun"
   },
   "engines": {
-    "node": ">= 0.10"
+    "node": "0.10"
   },
   "jest": {
     "automock": true,
